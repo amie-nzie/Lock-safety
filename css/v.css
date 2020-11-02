@@ -1,0 +1,22 @@
+.hello{
+    color: brown;
+    text-align: center;
+    font-size: 25px;
+}
+.hi{
+    color: chocolate;
+    text-align: justify;
+
+}
+.in{
+    color: cornflowerblue;
+    text-align: justify;
+}
+.button{
+    color: black;
+    background-color: cadetblue;
+    width: 100px;
+    height: 50px;
+    
+
+}
